@@ -1,4 +1,4 @@
-# JHipsterSampleApplication
+# JHipsterSampleApplication [![Build Status](https://travis-ci.com/morinb/jhipster-sample-application.svg?branch=master)](https://travis-ci.com/morinb/jhipster-sample-application)
 
 This application was generated using JHipster 6.0.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.0.1](https://www.jhipster.tech/documentation-archive/v6.0.1).
 
